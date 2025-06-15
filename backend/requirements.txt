@@ -1,0 +1,16 @@
+# requirements.txt
+
+# Web framework
+fastapi
+
+# ASGI server
+uvicorn[standard]
+
+# OpenAI API client
+openai
+
+# For environment variables
+python-dotenv
+
+# Data validation and serialization
+pydantic
